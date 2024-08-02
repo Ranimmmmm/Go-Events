@@ -1,6 +1,6 @@
 import { useQuery } from '@tanstack/react-query';
 import { useRef, useState } from 'react';
-import fetchEvents from '../../util/http';
+import {fetchEvents} from '../../util/http';
 import EventItem from './EventItem';
 import LoadingIndicator from '../UI/LoadingIndicator';
 export default function FindEventSection() {
