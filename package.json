@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "@tanstack/react-query": "^5.51.16"
+    "react-hot-toast": "^2.4.1"
   }
 }
