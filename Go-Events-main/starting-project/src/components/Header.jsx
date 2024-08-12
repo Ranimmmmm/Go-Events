@@ -4,7 +4,7 @@ export default function Header({ children }) {
       <div id="main-header-loading"></div>
       <header id="main-header">
         <div id="header-title">
-          <h1>Go Events</h1>
+          <h1>OptiMinds</h1>
         </div>
         <nav>{children}</nav>
       </header>
